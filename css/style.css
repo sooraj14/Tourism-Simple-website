@@ -26,7 +26,7 @@ ul li a:hover{
 }
 body{
     background-size: cover;
-    background-image: url(/image3.jpg);
+    background-image: url(../css/image3.jpg);
     
     
 }
